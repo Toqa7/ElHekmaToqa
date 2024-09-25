@@ -1,0 +1,1038 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.599608, 19.990307]
+            },
+            "properties": {
+                "branch": "2133-بيشه الشارع العام",
+                "area": "106-بيشةوالوسطى",
+                "sales": 57689.65
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.5862057, 16.8832748]
+            },
+            "properties": {
+                "branch": "2008-جيزان هايبر بنده",
+                "area": "101-جيزان",
+                "sales": 56929.7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.04635, 18.54543]
+            },
+            "properties": {
+                "branch": "2005-محايل البلد",
+                "area": "102-محايل",
+                "sales": 52839.43
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.0483429, 18.5494125]
+            },
+            "properties": {
+                "branch": "2071-محايل السوق",
+                "area": "102-محايل",
+                "sales": 43908.04
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [44.189196, 17.494421]
+            },
+            "properties": {
+                "branch": "2013-نجران العثيم",
+                "area": "103-خميس",
+                "sales": 41561.9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.7562475, 18.3245297]
+            },
+            "properties": {
+                "branch": "2011-خميس بن صوفان",
+                "area": "103-خميس",
+                "sales": 38264.89
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [41.46858659999999, 20.012303]
+            },
+            "properties": {
+                "branch": "2041-الباحه شبرا",
+                "area": "106-بيشةوالوسطى",
+                "sales": 37006.88
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.059261, 18.544058]
+            },
+            "properties": {
+                "branch": "2006-محايل العثيم",
+                "area": "102-محايل",
+                "sales": 36671.33
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.51480859999999, 18.2185183]
+            },
+            "properties": {
+                "branch": "2046-ليالي ابها",
+                "area": "103-خميس",
+                "sales": 34607
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.0534398, 18.5473952]
+            },
+            "properties": {
+                "branch": "2038-محايل الواحه",
+                "area": "102-محايل",
+                "sales": 32552.27
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [45.079162, 23.885942]
+            },
+            "properties": {
+                "branch": "2087-رانيه السوق",
+                "area": "106-بيشةوالوسطى",
+                "sales": 32452.15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.6241207, 17.1591129]
+            },
+            "properties": {
+                "branch": "2085-صبيا السوق",
+                "area": "101-جيزان",
+                "sales": 32032.59
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.6136404, 20.0085973]
+            },
+            "properties": {
+                "branch": "2074-بيشه سمينا",
+                "area": "106-بيشةوالوسطى",
+                "sales": 31675.19
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [41.9225397, 19.1181765]
+            },
+            "properties": {
+                "branch": "2105-المجارده السوق",
+                "area": "102-محايل",
+                "sales": 30287.33
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [43.5029884, 19.5342205]
+            },
+            "properties": {
+                "branch": "2086-تثليث السوق",
+                "area": "106-بيشةوالوسطى",
+                "sales": 29214.87
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [41.9599712, 19.5789109]
+            },
+            "properties": {
+                "branch": "2141-سبت العلايا ال مساعد",
+                "area": "106-بيشةوالوسطى",
+                "sales": 28395.3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [41.9445261, 18.9339693]
+            },
+            "properties": {
+                "branch": "2031-بارق",
+                "area": "102-محايل",
+                "sales": 28309.67
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.802394, 18.2236127]
+            },
+            "properties": {
+                "branch": "2093-الرونه",
+                "area": "103-خميس",
+                "sales": 27240.91
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [41.5705276, 19.8605244]
+            },
+            "properties": {
+                "branch": "2078-بلجرشي السوق",
+                "area": "106-بيشةوالوسطى",
+                "sales": 26430
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [46.6309639, 24.7740729]
+            },
+            "properties": {
+                "branch": "2125-العقيق",
+                "area": "106-بيشةوالوسطى",
+                "sales": 25339.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.7652596, 18.2466704]
+            },
+            "properties": {
+                "branch": "2064-خميس افنيو",
+                "area": "103-خميس",
+                "sales": 25049.43
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.2807324, 17.7408183]
+            },
+            "properties": {
+                "branch": "2022-الدرب العثيم",
+                "area": "103-خميس",
+                "sales": 24963.18
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [41.072111, 19.1337333]
+            },
+            "properties": {
+                "branch": "2098-القنفده خياله بلازا",
+                "area": "102-محايل",
+                "sales": 24530.72
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.1671483, 19.1134285]
+            },
+            "properties": {
+                "branch": "2111-النماص الشارع العام",
+                "area": "106-بيشةوالوسطى",
+                "sales": 24029
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.5362501, 17.374003]
+            },
+            "properties": {
+                "branch": "2015-بيش الحريبي",
+                "area": "101-جيزان",
+                "sales": 23893.85
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.2658282, 17.7336268]
+            },
+            "properties": {
+                "branch": "2094-الدرب السوق",
+                "area": "103-خميس",
+                "sales": 23818.7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.5071442, 18.2108268]
+            },
+            "properties": {
+                "branch": "2127-أبها صاهر الاسعار",
+                "area": "103-خميس",
+                "sales": 23750.19
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [41.6759889, 19.5728755]
+            },
+            "properties": {
+                "branch": "2070-نمره الحريبي",
+                "area": "102-محايل",
+                "sales": 23701.93
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.9371966, 16.6049711]
+            },
+            "properties": {
+                "branch": "2095-صامطه البرهان",
+                "area": "101-جيزان",
+                "sales": 23685.9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.8216966, 16.9602642]
+            },
+            "properties": {
+                "branch": "2002-ابو عريش ذي ريجن",
+                "area": "101-جيزان",
+                "sales": 23399.18
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.5465653, 16.908925]
+            },
+            "properties": {
+                "branch": "2109-جازان الهرم عطارة الحكمة",
+                "area": "101-جيزان",
+                "sales": 22969.16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [39.7875785, 21.3764543]
+            },
+            "properties": {
+                "branch": "2080-مكه الشوقيه",
+                "area": "106-بيشةوالوسطى",
+                "sales": 22904.28
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [41.911591, 19.1195657]
+            },
+            "properties": {
+                "branch": "2132-المجاردة اسكوير",
+                "area": "102-محايل",
+                "sales": 22769
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.9482097, 17.2356607]
+            },
+            "properties": {
+                "branch": "2037-العيدابي السوق",
+                "area": "101-جيزان",
+                "sales": 22546
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [41.9587086, 19.5794934]
+            },
+            "properties": {
+                "branch": "2048-سبت العلايا السوق",
+                "area": "106-بيشةوالوسطى",
+                "sales": 22544.62
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.5527974, 18.222566]
+            },
+            "properties": {
+                "branch": "2100-ابها المنسك",
+                "area": "103-خميس",
+                "sales": 21911.76
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [43.5174213, 17.6652253]
+            },
+            "properties": {
+                "branch": "2027-ظهران الجنوب",
+                "area": "103-خميس",
+                "sales": 21169.38
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.6454208, 17.1509367]
+            },
+            "properties": {
+                "branch": "2107-صبيا بلازا",
+                "area": "101-جيزان",
+                "sales": 21086.92
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [43.07464179999999, 17.0372394]
+            },
+            "properties": {
+                "branch": "2104-العارضه الشارع العام",
+                "area": "101-جيزان",
+                "sales": 20458
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.0574069, 18.5274283]
+            },
+            "properties": {
+                "branch": "2137-محايل أضواء شبرا",
+                "area": "102-محايل",
+                "sales": 20202.01
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [41.9131906, 18.336851]
+            },
+            "properties": {
+                "branch": "2115-محايل البحر",
+                "area": "102-محايل",
+                "sales": 20109
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [43.1300952, 18.085425]
+            },
+            "properties": {
+                "branch": "2097-سراه عبيده السوق",
+                "area": "103-خميس",
+                "sales": 20047.87
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.81503319999999, 18.0973658]
+            },
+            "properties": {
+                "branch": "2092-الواديين السوق",
+                "area": "103-خميس",
+                "sales": 19945.01
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [36.5793282, 28.384939]
+            },
+            "properties": {
+                "branch": "2021-تبوك المطار",
+                "area": "106-بيشةوالوسطى",
+                "sales": 19790.85
+            }
+        },
+    
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [46.876919, 23.482051]
+            },
+            "properties": {
+                "branch": "2130-حوطة بني تميم",
+                "area": "106-بيشةوالوسطى",
+                "sales": 19615
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [45.079162, 23.885942]
+            },
+            "properties": {
+                "branch": "2134-الريش عطارة الحكمة",
+                "area": "102-محايل",
+                "sales": 19005
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [44.8341224, 20.4534647]
+            },
+            "properties": {
+                "branch": "2024-وادي الدواسر ردتاغ",
+                "area": "106-بيشةوالوسطى",
+                "sales": 18911.92
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [41.0494841, 19.5390124]
+            },
+            "properties": {
+                "branch": "2054-المظيلف سنتر البكري",
+                "area": "102-محايل",
+                "sales": 18858
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.6457649, 17.1650202]
+            },
+            "properties": {
+                "branch": "2003-صبيا الرايه",
+                "area": "101-جيزان",
+                "sales": 18806.9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [39.2190657, 21.5297115]
+            },
+            "properties": {
+                "branch": "2096-بني مالك السوق",
+                "area": "101-جيزان",
+                "sales": 18690.9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.2402886, 18.2819104]
+            },
+            "properties": {
+                "branch": "2043-رجال المع",
+                "area": "102-محايل",
+                "sales": 18324.96
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.6018155, 19.9984144]
+            },
+            "properties": {
+                "branch": "2010-بيشه البدر",
+                "area": "106-بيشةوالوسطى",
+                "sales": 17559.55
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [43.0486309, 17.0378768]
+            },
+            "properties": {
+                "branch": "2040-العارضه السوق",
+                "area": "101-جيزان",
+                "sales": 17490.67
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [38.095241, 24.0847636]
+            },
+            "properties": {
+                "branch": "2121-ينبع شارع رغد",
+                "area": "102-محايل",
+                "sales": 17448
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.5737553, 18.2411524]
+            },
+            "properties": {
+                "branch": "2020-ابها الصالحيه",
+                "area": "103-خميس",
+                "sales": 16962.53
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.8442913, 16.9692482]
+            },
+            "properties": {
+                "branch": "2103-ابو عريش الياسمين",
+                "area": "101-جيزان",
+                "sales": 16865.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [45.079162, 23.885942]
+            },
+            "properties": {
+                "branch": "2116-قنا",
+                "area": "102-محايل",
+                "sales": 16691.81
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.7748013, 17.1194961]
+            },
+            "properties": {
+                "branch": "2032-ضمد",
+                "area": "101-جيزان",
+                "sales": 16429.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.7148666, 18.3242717]
+            },
+            "properties": {
+                "branch": "2135-خميس مشيط شارع الستين",
+                "area": "103-خميس",
+                "sales": 16246.79
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [41.4343585, 19.742613]
+            },
+            "properties": {
+                "branch": "2023-المخواه مجمع العجران",
+                "area": "102-محايل",
+                "sales": 15952.83
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [38.0476588, 24.0819625]
+            },
+            "properties": {
+                "branch": "2102-ينبع البحر",
+                "area": "102-محايل",
+                "sales": 15943
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [39.5045369, 24.452188]
+            },
+            "properties": {
+                "branch": "2118-المدينه المنوره البخاري",
+                "area": "102-محايل",
+                "sales": 15473.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.5536739, 16.9022472]
+            },
+            "properties": {
+                "branch": "2009-جيزان الراشد مول",
+                "area": "101-جيزان",
+                "sales": 15208
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.1954466, 18.927159]
+            },
+            "properties": {
+                "branch": "2117-تنومه",
+                "area": "106-بيشةوالوسطى",
+                "sales": 14843.81
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [39.2190657, 21.5297115]
+            },
+            "properties": {
+                "branch": "2029-بني مالك المجمع",
+                "area": "101-جيزان",
+                "sales": 14736
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [43.2086085, 18.5587398]
+            },
+            "properties": {
+                "branch": "2035-طريب",
+                "area": "103-خميس",
+                "sales": 14635.95
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [41.7929818, 19.475017]
+            },
+            "properties": {
+                "branch": "2081-شمران",
+                "area": "102-محايل",
+                "sales": 13978
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.0286885, 21.9246171]
+            },
+            "properties": {
+                "branch": "2128-خرمه",
+                "area": "106-بيشةوالوسطى",
+                "sales": 13940.07
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.6452813, 17.1392757]
+            },
+            "properties": {
+                "branch": "2131-الظبيا",
+                "area": "101-جيزان",
+                "sales": 13620.73
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [41.9246083, 19.7430897]
+            },
+            "properties": {
+                "branch": "2140-سبت العلايا البشائر",
+                "area": "106-بيشةوالوسطى",
+                "sales": 13151.13
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.8180981, 16.9880249]
+            },
+            "properties": {
+                "branch": "2058-ابو عريش تاج مول",
+                "area": "101-جيزان",
+                "sales": 13070
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.6684924, 18.5827935]
+            },
+            "properties": {
+                "branch": "2142-وادي بن هشبل",
+                "area": "103-خميس",
+                "sales": 12249
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [47.2800593, 24.1393087]
+            },
+            "properties": {
+                "branch": "2123-الخرج الشارع العام",
+                "area": "106-بيشةوالوسطى",
+                "sales": 11912.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [41.2494229, 19.9419538]
+            },
+            "properties": {
+                "branch": "2113-قلوة",
+                "area": "102-محايل",
+                "sales": 11637
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.9534303, 16.710064]
+            },
+            "properties": {
+                "branch": "2090-فرع احد المسارحه",
+                "area": "101-جيزان",
+                "sales": 11560.39
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.9126684, 28.29542275936823]
+            },
+            "properties": {
+                "branch": "2126-تربة",
+                "area": "106-بيشةوالوسطى",
+                "sales": 11368
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [39.9401692, 21.4947228]
+            },
+            "properties": {
+                "branch": "2148-مكة – الشرائع مول",
+                "area": "106-بيشةوالوسطى",
+                "sales": 10735
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [46.7352066, 22.2887333]
+            },
+            "properties": {
+                "branch": "2129-الافلاج",
+                "area": "106-بيشةوالوسطى",
+                "sales": 10521.01
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.7948781, 18.2271672]
+            },
+            "properties": {
+                "branch": "2136-خميس المدينة العسكرية",
+                "area": "103-خميس",
+                "sales": 8268
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.8288956, 18.3565408]
+            },
+            "properties": {
+                "branch": "2138-تندحة",
+                "area": "103-خميس",
+                "sales": 7568
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [41.0820896, 19.1422023]
+            },
+            "properties": {
+                "branch": "2139-القنفدة مانجو بيازا",
+                "area": "102-محايل",
+                "sales": 7531.465
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.2246348, 18.0883245]
+            },
+            "properties": {
+                "branch": "2147-الحبيل عطارة الحكمة",
+                "area": "102-محايل",
+                "sales": 3846
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [45.079162, 23.885942]
+            },
+            "properties": {
+                "branch": "2144-الهروب",
+                "area": "101-جيزان",
+                "sales": 3846
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [46.7144103, 24.6307209]
+            },
+            "properties": {
+                "branch": "2014-الرياض التعمير",
+                "area": "106-بيشةوالوسطى",
+                "sales": 3522.75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [41.486569, 20.0357637]
+            },
+            "properties": {
+                "branch": "2145-الباحة هايبر بندة",
+                "area": "106-بيشةوالوسطى",
+                "sales": 2697
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [39.786318, 21.4297889]
+            },
+            "properties": {
+                "branch": "2146-مكة حي حراء الثقافي",
+                "area": "106-بيشةوالوسطى",
+                "sales": 997
+            }
+        }
+    ]
+}
